@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE\\Semster 5\\(CSEN501) Database I\\Project\\MS 3 files \u0026 folders\\61-34415Part\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7C99D-1101-43D6-8941-B0B39208F2D4}|61-34415Part.csproj|d:\\cse\\semster 5\\(csen501) database i\\project\\ms 3 files \u0026 folders\\61-34415part\\login page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7CC7C99D-1101-43D6-8941-B0B39208F2D4}|61-34415Part.csproj|solutionrelative:login page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LOGIN PAGE.aspx",
+              "DocumentMoniker": "D:\\CSE\\Semster 5\\(CSEN501) Database I\\Project\\MS 3 files \u0026 folders\\61-34415Part\\LOGIN PAGE.aspx",
+              "RelativeDocumentMoniker": "LOGIN PAGE.aspx",
+              "ToolTip": "D:\\CSE\\Semster 5\\(CSEN501) Database I\\Project\\MS 3 files \u0026 folders\\61-34415Part\\LOGIN PAGE.aspx",
+              "RelativeToolTip": "LOGIN PAGE.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-05T00:32:53.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
